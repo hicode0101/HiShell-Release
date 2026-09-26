@@ -26,14 +26,20 @@
 
 ## 📸 界面预览
 
-| | |
-|---|---|
-| <img src="docs/screenshots/HiShell-2.png" width="480"/> | <img src="docs/screenshots/HiShell-3.png" width="480"/> |
-| *多标签 SSH 终端（端口转发徽标 / 搜索 / 状态栏）* | *SFTP 双栏 + 传输队列（进度 / 速度 / 剩余时间）* |
-| <img src="docs/screenshots/HiShell-4.png" width="480"/> | <img src="docs/screenshots/HiShell-5.png" width="480"/> |
-| *端口转发（本地 / 远程 / 动态 SOCKS5）* | *会话管理器（拖拽排序 / 复制 / 连接）* |
-| <img src="docs/screenshots/HiShell-6.png" width="480"/> | <img src="docs/screenshots/HiShell-1.png" width="480"/> |
-| *用户密钥管理器（生成 / 导入 / 导出）* | *欢迎主页* |
+| |
+|---|
+| *多标签 SSH 终端（端口转发徽标 / 搜索 / 状态栏）* | 
+| <img src="docs/screenshots/HiShell-2.png" /> |
+| *SFTP 双栏 + 传输队列（进度 / 速度 / 剩余时间）* |
+| <img src="docs/screenshots/HiShell-3.png" /> |
+| *端口转发（本地 / 远程 / 动态 SOCKS5）* |
+| <img src="docs/screenshots/HiShell-4.png" /> |
+ | *会话管理器（拖拽排序 / 复制 / 连接）* |
+| <img src="docs/screenshots/HiShell-5.png" /> |
+| *用户密钥管理器（生成 / 导入 / 导出）* |
+| <img src="docs/screenshots/HiShell-6.png" /> |
+ | *欢迎主页* |
+| <img src="docs/screenshots/HiShell-1.png" /> |
 
 
 
