@@ -38,6 +38,8 @@
 | <img src="docs/screenshots/HiShell-5.png" width="830"/> |
 | *用户密钥管理器（生成 / 导入 / 导出）* |
 | <img src="docs/screenshots/HiShell-6.png" width="830"/> |
+| *在线编辑文件（支持语法高亮）* |
+| <img src="docs/screenshots/HiShell-8.png" width="830"/> |
  | *欢迎主页* |
 | <img src="docs/screenshots/HiShell-1.png" width="830"/> |
 
